@@ -1,3 +1,38 @@
+@font-face{
+    font-family: Brice Light Expanded;
+    src: url("A2_s3863959_VuCucPhuong/Brice Font Family/Brice-LightExpanded.otf");
+}
+
+@font-face {
+    font-family: Brice Bold Expanded;
+    src: url("A2_s3863959_VuCucPhuong/Brice Font Family/Brice-BoldExpanded.otf");
+  }
+
+@font-face {
+    font-family: Brice Bold Semi Expanded;
+    src: url("A2_s3863959_VuCucPhuong/Brice Font Family/Brice-BoldSemiExpanded.otf");
+}
+
+@font-face {
+    font-family: Brice Extra Light Semi Condensed;
+    src: url("A2_s3863959_VuCucPhuong/Brice Font Family/Brice-ExtraLightSemiCondensed.otf");
+}
+
+@font-face {
+    font-family: Brice Light Semi Condensed;
+    src: url("A2_s3863959_VuCucPhuong/Brice Font Family/Brice-LightSemiCondensed.otf");
+}
+
+@font-face {
+    font-family: Brice Semi Bold;
+    src: url("A2_s3863959_VuCucPhuong/Brice Font Family/Brice-SemiBold.otf");
+}
+
+@font-face {
+    font-family: Brice Semi Bold Expanded;
+    src: url("A2_s3863959_VuCucPhuong/Brice Font Family/Brice-SemiBoldExpanded.otf");
+}
+
 *{
     margin:0;
     padding: 0;
