@@ -153,6 +153,7 @@ img{
     .nav_menu li a{
         padding: 1vw;
         color:#FFFDC7;
+        font-size: 13pt;
         margin-right: 2vw;
     }
 
@@ -161,6 +162,7 @@ img{
         text-decoration: none;
         background-color: #FFFDC7;
         color: #18171E;
+        font-size: 13pt;
         width: fit-content;
         border-radius: 3vw;
         padding: 1vw;
@@ -809,7 +811,7 @@ h6{
     .footer h8{
         color: #18171E;
         font-family: Brice bold Expanded;
-        font-size: large;
+        font-size: 10pt;
         margin-left: 3vw;
         
     }
@@ -818,7 +820,7 @@ h6{
         text-decoration: none;
         color: #18171E;
         font-family: Brice light Expanded;
-        font-size: small;
+        font-size: 9.5pt;
         float: right;
         margin-right: 3vw;
         padding-top: 0.5vw;
