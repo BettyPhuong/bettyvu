@@ -162,7 +162,7 @@ img{
 @media only screen and (min-width: 560px){
     .logo{
         position: absolute;
-        font-size: 13pt;
+        font-size: 15pt;
         margin-left: 1vw;
         margin-top: 5vw;
     }
@@ -188,7 +188,7 @@ img{
     .nav_menu li a{
         padding: 1vw;
         color:#FFFDC7;
-        font-size: 13pt;
+        font-size: 15pt;
         margin-right: 2vw;
     }
 
@@ -197,7 +197,7 @@ img{
         text-decoration: none;
         background-color: #FFFDC7;
         color: #18171E;
-        font-size: 13pt;
+        font-size: 15pt;
         width: fit-content;
         border-radius: 3vw;
         padding: 1vw;
@@ -846,7 +846,7 @@ h6{
     .footer h8{
         color: #18171E;
         font-family: Brice bold Expanded;
-        font-size: 10pt;
+        font-size: 13pt;
         margin-left: 3vw;
         
     }
@@ -855,7 +855,7 @@ h6{
         text-decoration: none;
         color: #18171E;
         font-family: Brice light Expanded;
-        font-size: 9.5pt;
+        font-size: 10pt;
         float: right;
         margin-right: 3vw;
         padding-top: 0.5vw;
